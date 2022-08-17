@@ -1,6 +1,6 @@
 ## Hi there, I'm Djordje 👋
 
-DevOps Engineer at TX Group AG 🇨🇭
+DevOps Engineer @ TX Group AG 🇨🇭
 
 
 ### Contact
